@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.socialauto.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.socialauto.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/layout_activity_linkedin.xml.flat",
+        "source": "com.socialauto.app-main-6:/layout/activity_linkedin.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/drawable_bg_input.xml.flat",
+        "source": "com.socialauto.app-main-6:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.socialauto.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/layout_item_post.xml.flat",
+        "source": "com.socialauto.app-main-6:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.socialauto.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/xml_accessibility_service_config.xml.flat",
+        "source": "com.socialauto.app-main-6:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/drawable_bg_status.xml.flat",
+        "source": "com.socialauto.app-main-6:/drawable/bg_status.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/layout_dialog_add_post.xml.flat",
+        "source": "com.socialauto.app-main-6:/layout/dialog_add_post.xml"
+    },
+    {
+        "merged": "com.socialauto.app-merged_res-4:/menu_main_menu.xml.flat",
+        "source": "com.socialauto.app-main-6:/menu/main_menu.xml"
+    }
+]
