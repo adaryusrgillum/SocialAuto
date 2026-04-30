@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialAuto</string>
+    <string name="accessibility_service_label">SocialAuto Automation</string>
+    <string name="accessibility_service_description">Enables SocialAuto to paste scheduled content and interact with social media apps automatically. No data is collected or transmitted.</string>
+</resources>
